@@ -17,7 +17,6 @@
 <h2>Cómo Usar</h2>
 <ol>
     <li>Clona este repositorio en tu computadora:</li>
-    <pre><code>git clone https://github.com/tuusuario/amigo-secreto.git</code></pre>
     <li>Abre el archivo <code>index.html</code> en tu navegador.</li>
     <li>Ingresa los nombres de los participantes y presiona "Añadir".</li>
     <li>Una vez agregados los nombres, presiona "Sortear amigo" para obtener un amigo secreto aleatorio.</li>
